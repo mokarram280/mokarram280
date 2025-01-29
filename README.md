@@ -1,9 +1,9 @@
 ![github banner](https://github.com/user-attachments/assets/67f1ac0c-7b52-4960-ba26-1423992cb5a8)
 # Hi there! 👋, My name is MD MOKARRAM HOSSAIN
-## I am a web developer.
+# I am a Web Developer.
 
 
-## I'm a Front-end web developer who is passionate about making client satisfaction website. I believe in the power of open-source and am always looking for ways to contribute. You'll find my projects focus on Front-end development. I'm always eager to dive into new technologies and frameworks.
+## I'm a Front-end Web Developer who is passionate about making client satisfaction website. I believe in the power of open-source and am always looking for ways to contribute. You'll find my projects focus on Front-end development. I'm always eager to dive into new technologies and frameworks.
 
 
 ### 🔭 I’m currently working on Github 
